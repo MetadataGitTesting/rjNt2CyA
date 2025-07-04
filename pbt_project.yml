@@ -1,0 +1,50 @@
+name: tomoko.corwin
+description: attitude-oriented
+version: 0.0.1
+author: 7yjxdstk.9xxi7esb@1daax8tq.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: tomokocorwin
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 20:31:57'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 20:31:57'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T20:31:57.168764Z'
+  name: plibMaven
+  version: 8.12.0-SNAPSHOT
+  id: '526393886'
+  createdAt: '2025-07-04T20:31:57.168764Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
